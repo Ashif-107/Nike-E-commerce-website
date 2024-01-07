@@ -9,9 +9,6 @@ function closenavbar(){
     navMenu.style.right="-100%"
 }
 
-/*======active section========== */
-
-
 /*========== swiper ==========*/
 
 const swipershoe= new Swiper('.home-img', {
